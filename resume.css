@@ -1,0 +1,22 @@
+
+    #header{
+        background-color: rgb(216, 210, 201);
+    }
+    #carrier{
+        background-color: rgb(179, 207, 199);
+    }
+    h2{
+        background-color: rgb(65, 65, 77);
+       color: cornflowerblue;
+       font-style: italic;
+    }
+    h1{
+        font-size: 30px;
+        color: rgb(18, 19, 13);
+        background-color: rgb(99, 69, 69);
+        text-align: center;
+    }
+    th{
+        font-style: italic;
+        background-color: rgb(167, 167, 166);
+    }
